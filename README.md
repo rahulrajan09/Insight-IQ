@@ -17,4 +17,15 @@ conda activate interviewenv
 ### Github commands
 ``` bash
 1. git clone https://github.com/rahulrajan09/Insight-IQ.git
+
+2. git branch #(make sure you are on correct branch-main,master or feature branch)
+
+3. git add .
+
+4. git commit -m "readme updated"
+
+5. git remote show origin #checking remote branch
+
+6. git push origin main 
+
 ```
